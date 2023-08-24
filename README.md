@@ -1,2 +1,6 @@
 # Arduino-Projects
-The Robot Car project uses the sound sensor and the ultrasonic sensor 
+This repository includes my Arduino project from my undergraduate degree in EE from Year 1 and during my mentorship for high school students during summer of 2022
+
+# Year 1
+Ultrasonic_sensor_concept -->
+
